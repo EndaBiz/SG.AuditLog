@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QEEWupOrFzsTcLdKXaqge+bKiTe0bG1KNprYgdalwhabJWtr/FN+ZZtB5zgBzF03kfM3ELZQf5ZNWRjaDZ8f+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\SG.AuditLog\\Sample\\Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enda_nozomu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
